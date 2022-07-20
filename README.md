@@ -8,9 +8,9 @@ This repository is an implementation of the paper: Asymmetric Relation Consisten
 ## Citing ARC
 If you find this repo useful in your research, please consider citing:  
 
-@inproceedings{HuanArc22,
-    Title={Asymmetric Relation Consistency Reasoning for Video Relation Grounding},  
-    Author={Huan Li, Ping Wei, Jiapeng Li, Zeyu Ma, Jiahui Shang, and Nanning Zheng},  
-    Booktitle={ECCV},  
-    year={2022}  
+@inproceedings{HuanArc22,  
+      Title={Asymmetric Relation Consistency Reasoning for Video Relation Grounding},  
+      Author={Huan Li, Ping Wei, Jiapeng Li, Zeyu Ma, Jiahui Shang, and Nanning Zheng},  
+      Booktitle={ECCV},  
+      year={2022}  
 }
